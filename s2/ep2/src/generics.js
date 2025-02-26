@@ -3,7 +3,7 @@ function premierElement() {
     for (var _i = 0; _i < arguments.length; _i++) {
         tableau[_i] = arguments[_i];
     }
-    console.log(tableau[0]);
+    console.log(tableau[0], "test");
     return tableau[0];
 }
 var number = [1, 2, 3, 4, 5];

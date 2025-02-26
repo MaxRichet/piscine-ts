@@ -1,5 +1,5 @@
 function premierElement<T extends any[]>(...tableau: T): T{
-    console.log(tableau[0]);
+    console.log(tableau[0], "test");
     return tableau[0];
 }
 type Obj = {nom: string, age: number};
