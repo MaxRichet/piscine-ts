@@ -6,5 +6,5 @@
         "strict": true,
         "declaration": true
     },
-    "files": ["src/formes.ts"]
+    "files": ["src/vehicule.ts"]
 }
