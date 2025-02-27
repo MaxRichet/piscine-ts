@@ -12,7 +12,7 @@ function vecteurDirection(direction: Direction): [number, number]{
         return [0, -1];
     else if(direction === Direction.Est)
         return [1, 0];
-    else(direction === Direction.Ouest)
+    else
         return [-1, 0];
 }
 
